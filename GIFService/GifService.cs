@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.SQLite;
 using System.Linq;
 
 namespace GIFService
@@ -15,8 +14,11 @@ namespace GIFService
                 new List<string>
                 {
                     "doc63485431_335220113",
-                    "doc63485431_462648649",
-                    "doc63485431_328870749"
+                    "doc171482235_466874194",
+                    "doc171482235_466874202",
+                    "doc171482235_466873968",
+                    "doc171482235_466854446",
+                    "doc171482235_466853834"
                 } },
             {
                 "kb",
