@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIFService", "GIFService\GIFService.csproj", "{DE077723-C25B-4F6A-A9EA-27381AB414E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLUtils", "..\SQLUtils\SQLUtils.csproj", "{138126F7-ECDA-4327-A978-D640FE0A3551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE077723-C25B-4F6A-A9EA-27381AB414E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE077723-C25B-4F6A-A9EA-27381AB414E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE077723-C25B-4F6A-A9EA-27381AB414E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE077723-C25B-4F6A-A9EA-27381AB414E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{138126F7-ECDA-4327-A978-D640FE0A3551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138126F7-ECDA-4327-A978-D640FE0A3551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138126F7-ECDA-4327-A978-D640FE0A3551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138126F7-ECDA-4327-A978-D640FE0A3551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE0F10AF-1118-4B2F-86DA-8567965C36C3}
+	EndGlobalSection
+EndGlobal
